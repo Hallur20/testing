@@ -10,7 +10,19 @@
  */
 public class HelloWorld {
     public static void main(String[] args) {
-        System.out.println("hello world");
+        Boolean[] terTEWRRTWE  = {true, false, false};
+        
+        
+        for(int i = 0; i < terTEWRRTWE.length; i++){
+            System.out.println(terTEWRRTWE[i]);
+        }
+        
+        
+        
     }
+    
+    
+    
+    
    
 }
