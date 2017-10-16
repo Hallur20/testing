@@ -3,8 +3,8 @@ public class HelloWorld {
         Boolean[] terTEWRRTWE  = {true, false, false};
         
         
-        for(int i = 0; i < terTEWRRTWE.length; i++){
-            System.out.println(terTEWRRTWE[i]);
+        for (Boolean terTEWRRTWE1 : terTEWRRTWE) {
+            System.out.println(terTEWRRTWE1);
         }
         
         
